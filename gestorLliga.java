@@ -217,7 +217,7 @@ public class gestorLliga {
             }
         }
 
-        // pw = escriuArxiu(nomsequips, dadesequips);
+        escriuArxiu(nomsequips, dadesequips);
 
     }
 
